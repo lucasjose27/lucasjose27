@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas José. 👋
 
 - Cursando Análise e Desenvolvimento de Sistemas.
-- Hoje eu trabalho na area da industria.
+- Atualmente trabalho na área da industria.
 - Estou estudando Python, HTML, CSS e Javascript.
   ##
 <div style="display: inline_block"><br>
