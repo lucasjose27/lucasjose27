@@ -1,7 +1,6 @@
 ## Olá! Eu sou Lucas José. 👋
 
 - Cursando Análise e Desenvolvimento de Sistemas.
-- Atualmente trabalho na área da industria.
 - Estou estudando Cloud AWS, Python, HTML, CSS e Javascript.
   ##
 <div style="display: inline_block"><br>
